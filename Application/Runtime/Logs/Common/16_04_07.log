@@ -1,0 +1,84 @@
+[ 2016-04-07T17:45:26+08:00 ] 127.0.0.1 /qiumiba/recom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+ERR: 无法加载模块:Recom
+
+[ 2016-04-07T17:45:34+08:00 ] 127.0.0.1 /qiumiba/Recom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+ERR: 无法加载模块:Recom
+
+[ 2016-04-07T17:45:43+08:00 ] 127.0.0.1 /qiumiba/Recom/recom_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+ERR: 无法加载模块:Recom
+
+[ 2016-04-07T17:48:43+08:00 ] 127.0.0.1 /qiumiba/Recom/recom_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+ERR: 无法加载模块:Recom
+
+[ 2016-04-07T17:48:44+08:00 ] 127.0.0.1 /qiumiba/Recom/recom_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001145s ]
+ERR: 无法加载模块:Recom
+
+[ 2016-04-07T17:48:44+08:00 ] 127.0.0.1 /qiumiba/Recom/recom_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001164s ]
+ERR: 无法加载模块:Recom
+
+[ 2016-04-07T17:48:45+08:00 ] 127.0.0.1 /qiumiba/Recom/recom_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+ERR: 无法加载模块:Recom
+
+[ 2016-04-07T17:50:17+08:00 ] 127.0.0.1 /qiumiba/index.php/Recom/recom_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+ERR: 无法加载模块:Recom
+
+[ 2016-04-07T17:50:20+08:00 ] 127.0.0.1 /qiumiba/index.php/Recom/recom_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+ERR: 无法加载模块:Recom
+
+[ 2016-04-07T17:50:21+08:00 ] 127.0.0.1 /qiumiba/index.php/Recom/recom_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+ERR: 无法加载模块:Recom
+
+[ 2016-04-07T17:50:24+08:00 ] 127.0.0.1 /qiumiba/index.php/recom/recom_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+ERR: 无法加载模块:Recom
+
+[ 2016-04-07T17:51:52+08:00 ] 127.0.0.1 /qiumiba/index.php/recom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+ERR: 无法加载模块:Recom
+
+[ 2016-04-07T17:51:58+08:00 ] 127.0.0.1 /qiumiba/index.php/recom/recom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+ERR: 无法加载模块:Recom
+
+[ 2016-04-07T17:59:06+08:00 ] 127.0.0.1 /qiumiba/index.php/recom/recom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+ERR: 无法加载模块:Recom
+
